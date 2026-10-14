@@ -22,5 +22,6 @@
 
 Блок схема:
 
-<img width="617" height="1171" alt="Lub7 схема drawio" src="https://github.com/user-attachments/assets/46e31eae-856f-4421-8edc-d78b553924a1" />
+<img width="617" height="1171" alt="Блок-схема7 drawio" src="https://github.com/user-attachments/assets/54927331-9c0d-49dd-a464-938fd1f7fd9c" />
+
 
