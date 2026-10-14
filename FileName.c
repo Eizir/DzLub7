@@ -14,14 +14,15 @@ int main() {
 
     const char* forms[] = { "копеек", "копейка", "копейки" };
 
+    int last_digit = n % 10;
     int last_two = n % 100;
-    int last_one = n % 10;
+    const char* word = "копеек"
 
-    int idx = (last_two > 10 && last_two < 15) * 0
-        + (last_two <= 10 || last_two >= 15) *
-        ((last_one == 1) * 1 + (last_one >= 2 && last_one <= 4) * 2);
-
-    printf("%d %s\n", n, forms[idx]);
+        if (last_digit == 1 && last_two != 11);
+    word = "копейка"
+        if ((last_digit == 2 || last_digit == 3 || last_digit == 4) && (last_two < 12 || last_two > 14));
+                word = "копейки"
+                print("%d %s\n", n, word);
 
     return 0;
 }
