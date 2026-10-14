@@ -18,7 +18,7 @@
 9.  Вывести n и word
 10.  Конец
 
-
 Блок схема:
+
 <img width="617" height="1171" alt="Lub7 схема drawio" src="https://github.com/user-attachments/assets/46e31eae-856f-4421-8edc-d78b553924a1" />
 
