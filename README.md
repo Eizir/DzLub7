@@ -22,6 +22,7 @@
 
 Блок схема:
 
-<img width="617" height="1171" alt="Блок-схема7 drawio" src="https://github.com/user-attachments/assets/54927331-9c0d-49dd-a464-938fd1f7fd9c" />
+<img width="617" height="1171" alt="Блок-схема7 drawio (1)" src="https://github.com/user-attachments/assets/af51417b-f0be-4232-b98f-c889c2fcc312" />
+
 
 
